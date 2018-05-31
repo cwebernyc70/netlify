@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://friendly-hugle-164bf6.netlify.com/* https://carolineweber.net/:splat 301!
