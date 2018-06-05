@@ -181,7 +181,10 @@ width: 60%;}
 
 p.solid_b {border-style: none none solid none;
 }
-
+p.right {
+	padding: 0px 0px;
+	text-align: right;
+}
 .sidenote, .marginnote { float: right;
                          clear: right;
                          margin-right: -70%;
