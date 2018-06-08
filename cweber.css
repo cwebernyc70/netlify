@@ -1,8 +1,5 @@
 @charset "UTF-8";
 
-/* Import ET Book styles
-   adapted from https://github.com/edwardtufte/et-book/blob/gh-pages/et-book.css */
-
 @font-face {
 font-family: "et-book";
 src: url("et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot");
@@ -26,7 +23,6 @@ src: url("et-book/et-book-bold-line-figures/et-book-bold-line-figures.eot?#iefix
 font-weight: bold;
 font-style: normal
 }
-
 
 /* Tufte CSS styles */
 html { font-size: 15px; }
